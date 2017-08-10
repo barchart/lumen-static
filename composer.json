@@ -17,6 +17,11 @@
             "url": "git@github.com:barchart/lumen-static-framework"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
     "minimum-stability": "dev",
     "prefer-stable": true
 }
