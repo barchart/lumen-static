@@ -1,0 +1,22 @@
+{
+    "name": "barchart/lumen-static",
+    "description": "(Mostly) static sites built on top of Lumen.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tom Sisk",
+            "email": "tom.sisk@barchart.com"
+        }
+    ],
+    "require": {
+        "barchart/lumen-static-framework": "dev-master"
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "git@github.com:barchart/lumen-static-framework"
+        }
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
