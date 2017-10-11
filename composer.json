@@ -9,7 +9,7 @@
         }
     ],
     "require": {
-        "barchart/lumen-static-framework": "dev-master"
+        "barchart/lumen-static-core": "dev-master"
     },
     "repositories": [
         {
