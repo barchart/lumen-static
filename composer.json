@@ -9,12 +9,12 @@
         }
     ],
     "require": {
-        "barchart/lumen-static-core": "dev-master"
+        "barchart/lumen-static-core": "^1.0"
     },
     "repositories": [
         {
             "type": "vcs",
-            "url": "git@github.com:barchart/lumen-static-framework"
+            "url": "git@github.com:barchart/lumen-static-core"
         }
     ],
     "autoload": {
