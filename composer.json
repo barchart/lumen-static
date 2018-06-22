@@ -9,7 +9,7 @@
         }
     ],
     "require": {
-        "barchart/lumen-static-core": "^1.0"
+        "barchart/lumen-static-core": "^1.1"
     },
     "repositories": [
         {
